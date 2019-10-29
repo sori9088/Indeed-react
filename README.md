@@ -1,68 +1,66 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# CoderSchool FTW - * Indeed *
 
-## Available Scripts
+Created with love by: `HANSOL PARK`
+  
+View online at: `Your URL here`
+  
+One or two sentence summary of your project. 
 
-In the project directory, you can run:
+## Video Walkthrough
 
-### `npm start`
+Here's a walkthrough of implemented user stories.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+To create a GIF, use [LiceCap](http://www.cockos.com/licecap/), [RecordIt](http://www.recordit.co), or [Loom](http://www.useloom.com), and link the image here in the markdown.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+```
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+```
 
-### `npm test`
+## User Stories
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The following **required** functionalities are completed (this is a sample):
 
-### `npm run build`
+* [ ] User can see a navigation bar which contains dashboard, company, & candidates.
+* [ ] User can see unique content on each screen.
+* [ ] User can see a list of candidates on the candidates screen.
+* [ ] User can see basic information about each candidate on candidates screen.
+* [ ] User can navigate to a screen to edit a candidate's profile.
+* [ ] User can only submit valid forms to edit candidate.
+* [ ] User can edit a candidate.
+* [ ] User can delete a candidate.
+* [ ] User can see title changes to match content of each screen.
+* [ ] User can see at least one animation on the site.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The following **optional** features are implemented:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+* [x] Add favicon to the page
+* [ ] Animation on an element
+* [ ] Navigation, contact, sitemap, privacy policy, term of use, etc in footer
+* [ ] Bootstrap carousel for banner
+* [ ] Banner with background video
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The following **additional** features are implemented:
 
-### `npm run eject`
+* [x] List anything else that you can get done to improve the page!
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Time Spent and Lessons Learned
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Time spent: **X** hours spent in total.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Describe any challenges encountered while building the app.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## License
 
-## Learn More
+    Copyright [yyyy] [name of copyright owner]
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+        http://www.apache.org/licenses/LICENSE-2.0
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
